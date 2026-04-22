@@ -1,0 +1,19 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files to ignore
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / virtual env
+.env
+.venv
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
