@@ -4,15 +4,6 @@ A collection of **Exploratory Data Analysis (EDA)** and **Feature Engineering** 
 
 ---
 
-## 📁 Project Structure
-
-EDA/
-├── problem_1(Zomato)/
-├── problem_2(Black_Friday)/
-└── problem_3(Flight_Price)/
-
----
-
 ## 🍽️ Zomato EDA
 
 - Handled missing values in ratings, cost, and cuisines
